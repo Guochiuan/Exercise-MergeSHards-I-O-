@@ -1,4 +1,4 @@
 # Exercise-MergeSHards-I-O-
 
-javac MergeShards.java
-java MergeShards shards/ sorted.txt
+javac MergeShards.java<br />
+java MergeShards shards/ sorted.txt<br />
